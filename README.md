@@ -1,2 +1,59 @@
-# 1b0a0e1d-print-publishing-invoice-and
-Every print publishing professionals needs this — most just don't know it yet.  Fully documented admin settings panel — no code required for configuration. Compatible with all major WordPress themes and page builders.  ## What's Included  - Print &amp; Publishing Invoice And Payment — fully configured and ready to use - Clean admin settings panel with
+=== Print & Publishing Invoice and Payment WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Generate invoices, accept payments, track revenue, and automate receipts for Print & Publishing. All-in-one financial management for Print & Publishing sites.
+
+== Description ==
+
+Generate invoices, accept payments, track revenue, and automate receipts for Print & Publishing. All-in-one financial management for Print & Publishing sites.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Print & Publishing Invoice and Payment WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu4gzfXx8Is09a5bucZo1v)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu4gzfXx8Is09a5bucZo1v)
+
